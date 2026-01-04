@@ -34,11 +34,11 @@
 ---
 
 ## 🎯 Career Goal
-To start my career as a **Software Developer** and grow by building real-world projects.
+To start my career as MERN Fullstack as well as Software Developer continuously grow through hands-on, real-world projects.
 
 ---
 
 ## 📫 Contact
-- 📧 Email: your-email@gmail.com  
-- 💼 LinkedIn: linkedin.com/in/yourname  
-- 🐙 GitHub: github.com/yourusername  
+- 📧 Email: nitishkharat608@gmailcom  
+- 💼 LinkedIn: Nitish Kharat
+- 🐙 GitHub:  nitishkharat
