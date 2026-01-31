@@ -6,13 +6,13 @@
 ---
 
 ## 🎓 Education
-- **BCA (Computer Science)** – Deogiri College, Chhatrapati Sambhajinagar  
-- **MCA (Pursuing)** – Pathrikar College, Badnapur, Dist. Jalna  
+- **BCA (Computer Science)** – Deogiri College, Chhatrapati Sambhajinagar. 
+- **MCA (Pursuing)** – Pathrikar College Badnapur. Dis-Jalna.   
 
 ---
 
 ## 💻 Skills
-- 🌐 HTML | CSS | JavaScript  
+- 🌐 HTML | CSS | JavaScript | Bootstrap 
 - 🐍 Python  
 - 🌱 Node.js  
 - 🛠️ Git & GitHub  
@@ -27,18 +27,18 @@
 ---
 
 ## 🌱 Currently Learning
-- Backend Development  
+- Frontend Development
 - Databases (MySQL / MongoDB)  
 - Data Structures & Algorithms  
 
 ---
 
 ## 🎯 Career Goal
-To start my career as MERN Fullstack as well as Software Developer continuously grow through hands-on, real-world projects.
+To start my career as MERN Fullstack as well as Software Developer  continuously grow through hands-on, real-world projects.
 
 ---
 
 ## 📫 Contact
-- 📧 Email: nitishkharat608@gmailcom  
+- 📧 Email: nitishkharat608@gmail.com  
 - 💼 LinkedIn: Nitish Kharat
 - 🐙 GitHub:  nitishkharat
