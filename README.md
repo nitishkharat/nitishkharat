@@ -172,5 +172,13 @@ through hands-on projects.
 ::: {align="center"}
 ### ✨ Keep Learning. Keep Building. Keep Growing.
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nitishkharat&theme=tokyonight" width="100%" alt="Contribution overview"/>{=html}
+
+<img src="https://github-stats-extended.vercel.app/api?username=nitishkharat&include_all_commits=true&show=all_time_contribs&theme=tokyonight&hide_border=true" width="100%" alt="GitHub contribution totals"/>{=html}
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nitishkharat&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub commit activity graph"/>{=html}
+
+<img src="https://streak-stats.demolab.com?user=nitishkharat&theme=tokyonight&hide_border=true" width="100%" alt="Contribution streak"/>{=html}
+
 **Thanks for visiting my profile!**
 :::
